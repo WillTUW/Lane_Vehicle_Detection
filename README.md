@@ -9,7 +9,7 @@ Vehicle and Lane Detection
 
 Taking steps toward autonomous vehicles. 
 
-We developed a lane and vehicle detection program by utilizing various computer vision methods. As a summary, we utilized a Hough Transform for lane detection and a trained support vector machine on HOG (histogram of gradient) image representations and sliding window in order to detect vehicles in a ROI (region of interest). Also added a feature to count the number of vehicles showed in each frame based on the bounding boxes.
+We developed a lane and vehicle detection program by utilizing various computer vision methods. As a summary, we utilized a Hough Transform for lane detection, trained a support vector machine on a HOG (histogram of gradient) image representation, and used a sliding window approcha to detect vehicles in our ROI. In addition, we counted the number of vehicles in each frame by counting our bounding boxes.
 
 Our C++ solution requires C++17
 
