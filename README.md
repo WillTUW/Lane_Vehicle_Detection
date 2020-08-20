@@ -13,7 +13,7 @@ We developed a lane and vehicle detection program by utilizing various computer 
 
 Our C++ solution requires C++17
 
-LINK TO REPORT: https://docs.google.com/document/d/1b4tJOJyv5KYdL_-rR2neeoJutpU8AYpMxji59ZpoVhk/edit?usp=sharing
+Link to Google Doc Report: https://docs.google.com/document/d/1b4tJOJyv5KYdL_-rR2neeoJutpU8AYpMxji59ZpoVhk/edit?usp=sharing
 
 ![demo](outputs/ld_vd_1.gif "demo")
 
